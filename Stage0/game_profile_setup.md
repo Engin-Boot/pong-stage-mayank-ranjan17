@@ -18,9 +18,9 @@ This module helps to sign up for a new profile in the game or to sign in
 
   Given the pong game is installed on the device and user is signed in
 
-  When a old user launches the game 
+  When a old user launches the game
 
-  Then he/she can start an old game or previous game 
+  Then he/she can start an old game or previous game
   
 ### Scenario: Edit the profile settings
 
