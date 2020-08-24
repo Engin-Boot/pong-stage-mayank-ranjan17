@@ -28,4 +28,4 @@ This module helps to change the UI of the game
 
   When the user changes the frame rate
   
-  Then the color of the frame rate is updated for the game.
+  Then the frame rate is updated for the game.
