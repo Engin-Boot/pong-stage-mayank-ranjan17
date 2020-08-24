@@ -6,7 +6,7 @@ This module helps to sign up for a new profile in the game or to sign in
 
 ## Acceptance Criteria
 
-### Scenario: Sign Up the new User
+### Scenario: Sign up the new User
 
   Given the pong game is installed on the device
 
