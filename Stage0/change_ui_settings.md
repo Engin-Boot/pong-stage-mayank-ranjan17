@@ -22,7 +22,7 @@ This module helps to change the UI of the game
 
   Then the size of the paddle is updated
   
-### Scenario: Change the frame rate of the game 
+### Scenario: Change the frame rate of the game
 
   Given a user is signed in and in the UI settings module
 
