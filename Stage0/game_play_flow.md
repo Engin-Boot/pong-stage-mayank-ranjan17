@@ -30,7 +30,7 @@ This module is used to play the game
 
   Then ball is moved in the opposite direction and coordinates of the ball is updated
   
-### Scenario: The ball movements in the game occured due to boundary
+### Scenario: The ball movements in the game occurs due to boundary
 
   Given the pong game is in run state
 
