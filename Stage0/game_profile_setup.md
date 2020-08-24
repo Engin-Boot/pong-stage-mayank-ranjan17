@@ -29,4 +29,3 @@ This module helps to sign up for a new profile in the game or to sign in
   When a user clicks on change profile data
 
   Then he/she can edit his/her profile data and save it in the game
- 
