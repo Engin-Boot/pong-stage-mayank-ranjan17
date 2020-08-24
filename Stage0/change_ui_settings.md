@@ -12,7 +12,7 @@ This module helps to change the UI of the game
 
   When the user chooses the color of the ball option and select a particular color
 
-  Then the color of the ball is updated and its visiible in the next game
+  Then the color of the ball is updated and its visible in the next game
 
 ### Scenario: Change the size of the paddle
 
